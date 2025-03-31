@@ -2,33 +2,38 @@
   "posts": [
     {
       "id": "3",
-      "title": "tittle 32",
-      "content": "content 32"
+      "title": "Mindful Living Tips",
+      "content": "Simple practices for a balanced, stress-free lifestyle."
     },
     {
       "id": "4",
-      "title": "title 4",
-      "content": "content 4"
+      "title": "Sustainable Fashion Trends",
+      "content": "Eco-friendly clothing choices that never go out of style."
     },
     {
       "id": "5",
-      "title": "title 5",
-      "content": "content 5"
+      "title": "Boost Your Productivity",
+      "content": "Effective strategies to get more done in less time."
     },
     {
       "id": "3ec0",
-      "title": "ddddd",
-      "content": "dddd"
+      "title": "Healthy Eating Habits",
+      "content": "Easy, nutritious recipes for a healthier lifestyle."
     },
     {
       "id": "5522",
-      "title": "ddddddfdf",
-      "content": "ddddedfwerewrwe"
+      "title": "Tech Innovations to Watch",
+      "content": "Cutting-edge gadgets and trends shaping the future."
     },
     {
       "id": "a71d",
-      "title": "reajesh",
-      "content": "dfdsafasdlf dewerwerf aawerfewrw erewrerf af ljlmloom jpjpfdasjb sarawemfemsouhfnoa aernfoeawh faweojfdfndo idjrenr johtgj r"
+      "title": "Traveling on a Budget",
+      "content": "Tips for exploring the world without breaking the bank."
+    },
+    {
+      "id": "34",
+      "title": "Home Decor Ideas",
+      "content": "Transform your space with stylish, affordable designs."
     }
   ]
 }
